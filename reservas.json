@@ -1,0 +1,23 @@
+{
+    "1": {
+        "numeroMesa": "24",
+        "nome": "Maria",
+        "data": "10/06",
+        "hora": "18:30",
+        "n_pessoas": "3"
+    },
+    "2": {
+        "numeroMesa": "10",
+        "nome": "Joana",
+        "data": "10/06",
+        "hora": "18:00",
+        "n_pessoas": "10"
+    },
+    "3": {
+        "numeroMesa": "99",
+        "nome": "lasdladkas",
+        "data": "dlalsda",
+        "hora": "dasl",
+        "n_pessoas": "2"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "1": {
+        "nome": "Lasanha",
+        "descricao": "Massa com carne",
+        "preco": "R$ 25,00",
+        "tipo": "Massa"
+    },
+    "2": {
+        "nome": "Strogonoff",
+        "descricao": "Galinha ao molho",
+        "preco": "10,00",
+        "tipo": "Prote\u00edna"
+    }
+}

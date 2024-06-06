@@ -1,0 +1,61 @@
+{
+    "1": {
+        "numeroMesa": "7",
+        "pratos": [
+            {
+                "nome": "Lasanha",
+                "quantidade": 1,
+                "preco_unitario": 25.0,
+                "preco_total": 25.0
+            },
+            {
+                "nome": "Strogonoff",
+                "quantidade": 1,
+                "preco_unitario": 10.0,
+                "preco_total": 10.0
+            }
+        ],
+        "obs": "Sem azeitona",
+        "total": 35.0
+    },
+    "2": {
+        "numeroMesa": "2",
+        "pratos": [
+            {
+                "nome": "Strogonoff",
+                "quantidade": 2,
+                "preco_unitario": 10.0,
+                "preco_total": 20.0
+            }
+        ],
+        "obs": "Sem cebola",
+        "total": 20.0
+    },
+    "3": {
+        "numeroMesa": "2",
+        "pratos": [
+            {
+                "nome": "Lasanha",
+                "quantidade": 3,
+                "preco_unitario": 25.0,
+                "preco_total": 75.0
+            }
+        ],
+        "obs": "Sem cebola",
+        "total": 75.0
+    },
+    "4": {
+        "numeroMesa": "26",
+        "pratos": [
+            {
+                "id": "2",
+                "nome": "Strogonoff",
+                "quantidade": 4,
+                "preco_unitario": 10.0,
+                "preco_total": 40.0
+            }
+        ],
+        "obs": "n\u00e3o colcoar cebola",
+        "total": 40.0
+    }
+}
